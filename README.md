@@ -1,10 +1,10 @@
 <html>
 <head>
-  <title>RestaurantLiitMenu/title>
 </head>
 <body>
-  <h1>liit Restaurant's Menu</h1>
-  <p>Open a PDF file <a href="MENU-new.pdf.1.pdf">example</a>.</p>
+  <h1>Liit Restaurant's Menu</h1>
+  <object data="MENU-new.pdf.1.pdf" type="application/pdf" width="100%" height="100%">
+    <p>Unable to display PDF file. <a href="https://example.com/your_pdf_file.pdf">Download</a> instead.</p>
+  </object>
 </body>
-</html>
 </html>
