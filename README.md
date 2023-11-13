@@ -1,1 +1,0 @@
-# restaurantliitmenu.github.io
